@@ -1,0 +1,11 @@
+C:\Users\8-bit\Desktop\Arduino\Arduino\bin\Debug\Arduino.exe.config
+C:\Users\8-bit\Desktop\Arduino\Arduino\bin\Debug\Arduino.exe
+C:\Users\8-bit\Desktop\Arduino\Arduino\bin\Debug\Arduino.pdb
+C:\Users\8-bit\Desktop\Arduino\Arduino\obj\Debug\Arduino.csproj.AssemblyReference.cache
+C:\Users\8-bit\Desktop\Arduino\Arduino\obj\Debug\Arduino.csproj.SuggestedBindingRedirects.cache
+C:\Users\8-bit\Desktop\Arduino\Arduino\obj\Debug\Arduino.Form1.resources
+C:\Users\8-bit\Desktop\Arduino\Arduino\obj\Debug\Arduino.Properties.Resources.resources
+C:\Users\8-bit\Desktop\Arduino\Arduino\obj\Debug\Arduino.csproj.GenerateResource.cache
+C:\Users\8-bit\Desktop\Arduino\Arduino\obj\Debug\Arduino.csproj.CoreCompileInputs.cache
+C:\Users\8-bit\Desktop\Arduino\Arduino\obj\Debug\Arduino.exe
+C:\Users\8-bit\Desktop\Arduino\Arduino\obj\Debug\Arduino.pdb
